@@ -32,7 +32,7 @@ A small place is designed to find some health assistance for common health probl
 5. The program automatically ends after giving medication
 6. For another symptom run it again
 
-# Screenshots of output 
+# Screenshots of output
 <img width="616" height="294" alt="Screenshot 2025-11-22 at 02 40 09" src="https://github.com/user-attachments/assets/f9e48bc4-a30f-4b06-9fe1-d54f5150e6fd" />
 <img width="617" height="285" alt="Screenshot 2025-11-22 at 02 41 06" src="https://github.com/user-attachments/assets/cf404368-6eab-40da-a220-0e0a913e3df5" />
 <img width="616" height="265" alt="Screenshot 2025-11-22 at 02 38 44" src="https://github.com/user-attachments/assets/37fc64b7-0747-4203-9fba-03ca4960aeb9" />
